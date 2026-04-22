@@ -10,21 +10,17 @@
 ##  🚀 Cách cài đặt và Sử dụng
 1. Tải script về máy
 Bạn có thể clone cả repository hoặc chỉ tải file script:
-
-   ```bash
- git clone https://github.com/slimulv1/check-end4-dotfile.git
- cd check-end4-dotfile
+      ```bash
+   git clone https://github.com/slimulv1/check-end4-dotfile.git
+   cd check-end4-dotfile
    ```
 2. Cấp quyền thực thi
 Trước khi chạy, bạn cần cấp quyền cho script:
-   ```bash
-./print-dots-commits.sh
-cd check-end4-dotfile
+      ```bash
+   chmod +x print-dots-commits.sh
    ```
-## 🛠 Yêu cầu hệ thống
-
-   - Hệ điều hành Linux/Unix.
-
-   - Cài đặt sẵn git và curl.
-
-   - Kết nối internet để lấy dữ liệu từ GitHub.
+3. Chạy script
+Thực thi script bằng lệnh:
+      ```bash
+   ./print-dots-commits.sh
+   ```
