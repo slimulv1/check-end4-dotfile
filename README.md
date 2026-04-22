@@ -1,4 +1,4 @@
-### Check End4 Dotfiles - Commit Printer
+# Check End4 Dotfiles - Commit Printer
 ## Một công cụ nhỏ bằng Bash script giúp bạn theo dõi và liệt kê các thay đổi (commits) từ repository dotfiles của End4 (dots-hyprland). Script này cực kỳ hữu ích khi bạn muốn kiểm tra xem có cập nhật nào mới hoặc những thay đổi gần đây trong cấu hình mà không cần phải lướt web thủ công.
 ✨ Tính năng chính
 
