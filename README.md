@@ -10,9 +10,10 @@
 ##  🚀 Cách cài đặt và Sử dụng
 1. Tải script về máy
 Bạn có thể clone cả repository hoặc chỉ tải file script:
+
    ```bash
  git clone https://github.com/slimulv1/check-end4-dotfile.git
-cd check-end4-dotfile
+ cd check-end4-dotfile
    ```
 2. Cấp quyền thực thi
 Trước khi chạy, bạn cần cấp quyền cho script:
